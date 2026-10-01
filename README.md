@@ -1,1 +1,1 @@
-# sites
+GitHubのコミット練習用
